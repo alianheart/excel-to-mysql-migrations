@@ -1,0 +1,8 @@
+# Python Dependencies for Excel to MySQL Migration
+# =================================================
+# Install using: pip install -r requirements.txt
+
+pandas==2.1.4
+openpyxl==3.1.2
+mysql-connector-python==8.2.0
+SQLAlchemy==2.0.23
